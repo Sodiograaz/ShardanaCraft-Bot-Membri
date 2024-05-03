@@ -1,0 +1,17 @@
+Token = ""
+Guild = 0
+MembersFormat = ""
+
+MinealphaVoteFetchTextChannel = 0
+MinealphaVoteFetchToken = ""
+MinecraftItaliaNetVoteFetchTextChannel = 0
+MinecraftItaliaNetVoteFetchToken = ""
+
+[Database]
+Host = "localhost"
+Port = "3306"
+Username = ""
+Password = ""
+EntryPoint = ""
+
+StaffList = [""]
